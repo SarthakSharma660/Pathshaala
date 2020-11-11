@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pathshaala</string>
+    <string name="john">John</string>
+    <string name="search_elements">Search elements</string>
+    <string name="notes">Notes</string>
+    <string name="time_table">Time-Table</string>
+    <string name="assignments">Assignments</string>
+    <string name="homework">Homework</string>
+    <string name="student">Student</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="signIn">Sign In</string>
+</resources>
